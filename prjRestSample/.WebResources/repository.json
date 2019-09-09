@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/prjrestsample.Account-Account.json",
+        "type": "generated"
+    }]
+}
